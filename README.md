@@ -1,8 +1,6 @@
-# La Machine Orchestre — Releases
+# La Machine Orchestre — Installateurs
 
-Ce dépôt ne contient **aucun code source**. Il sert uniquement à publier les
-installateurs Windows de [La Machine Orchestre](https://github.com/claudefrascadore/machine-orchestre),
-pour permettre à l'application de vérifier et proposer ses propres mises à
-jour au démarrage.
+Ce dépôt sert uniquement à distribuer les installateurs Windows de
+La Machine Orchestre. Il ne contient aucun code source.
 
-Téléchargez le dernier installateur depuis l'onglet [Releases](../../releases).
+Téléchargez la dernière version : https://github.com/claudefrascadore/machine-orchestre-releases/releases/latest
