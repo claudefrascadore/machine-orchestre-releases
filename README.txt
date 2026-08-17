@@ -11,6 +11,14 @@ certificat de signature de code). Windows avertit ainsi pour TOUT
 exécutable téléchargé d'un éditeur non identifié, indépendamment de sa
 fiabilité réelle.
 
+La Machine Orchestre est un logiciel personnel, développé par son propre
+auteur, sans collecte de données. Son activité réseau se limite à la
+vérification, au lancement, de nouvelles versions (de l'application
+elle-même, sur cette page GitHub, et des outils FFmpeg/FluidSynth utilisés
+pour l'export vidéo) — jamais de téléchargement sans une confirmation
+explicite. Ce dépôt ne contient que cet installateur et ce fichier,
+publiés par l'auteur lui-même.
+
 Pour continuer l'installation :
 
   1. Cliquer sur « Informations complémentaires » (petit lien texte sous
