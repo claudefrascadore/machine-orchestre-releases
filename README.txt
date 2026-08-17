@@ -12,12 +12,19 @@ exécutable téléchargé d'un éditeur non identifié, indépendamment de sa
 fiabilité réelle.
 
 La Machine Orchestre est un logiciel personnel, développé par son propre
-auteur, sans collecte de données. Son activité réseau se limite à la
-vérification, au lancement, de nouvelles versions (de l'application
-elle-même, sur cette page GitHub, et des outils FFmpeg/FluidSynth utilisés
-pour l'export vidéo) — jamais de téléchargement sans une confirmation
-explicite. Ce dépôt ne contient que cet installateur et ce fichier,
-publiés par l'auteur lui-même.
+auteur, sans collecte de données. Ce dépôt ne contient que cet installateur
+et ce fichier, publiés par l'auteur lui-même.
+
+Activité réseau du programme, une fois installé :
+
+  - Au lancement : vérification de nouvelles versions (de l'application
+    elle-même, sur cette page GitHub, et des outils FFmpeg/FluidSynth
+    utilisés pour l'export vidéo) — jamais de téléchargement sans une
+    confirmation explicite.
+  - En continu : un petit serveur web LOCAL démarre automatiquement (port
+    8080) pour piloter la lecture depuis une tablette sur le même réseau
+    Wi-Fi (voir l'Aide du programme, section « Télécommande réseau »).
+    Sans mot de passe : toute personne sur le même réseau peut y accéder.
 
 Pour continuer l'installation :
 
